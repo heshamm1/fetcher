@@ -1,5 +1,17 @@
 # Fetcher - DNS Subdomain Brute Forcer
 
+```
+░▒▓████████▓▒░▒▓████████▓▒░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓███████▓▒░  
+░▒▓█▓▒░      ░▒▓█▓▒░         ░▒▓█▓▒░  ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░      ░▒▓█▓▒░         ░▒▓█▓▒░  ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓██████▓▒░ ░▒▓██████▓▒░    ░▒▓█▓▒░  ░▒▓█▓▒░      ░▒▓████████▓▒░▒▓██████▓▒░ ░▒▓███████▓▒░  
+░▒▓█▓▒░      ░▒▓█▓▒░         ░▒▓█▓▒░  ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░      ░▒▓█▓▒░         ░▒▓█▓▒░  ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░      ░▒▓████████▓▒░  ░▒▓█▓▒░   ░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+                    "Curiosity is the spark behind every great discovery."
+                                         Made by sh1vv
+```
+
 ![Fetcher](https://img.shields.io/badge/Version-1.0-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-yellow.svg)
 
 Fetcher is a **high-performance, DNS-based subdomain brute-forcing tool** that helps discover valid subdomains efficiently.
@@ -7,6 +19,7 @@ Fetcher is a **high-performance, DNS-based subdomain brute-forcing tool** that h
 ## 🚀 Features
 ✅ **Fast & Multi-threaded** - Uses Python's ThreadPoolExecutor  
 ✅ **DNS-Based** - No HTTP requests, bypasses web firewalls  
+✅ **Real-Time Output** - Saves results instantly  
 ✅ **Custom Output File Support** (`-o filename.txt`)  
 
 ---
@@ -80,7 +93,7 @@ Want to contribute? Feel free to **fork the repo** and submit a **pull request!*
 
 ### **Clone & Setup**
 ```bash
-git clone https://github.com/heshamm1/fetcher.git
+git clone https://github.com/yourusername/fetcher.git
 cd fetcher
 pip install -r requirements.txt
 ```
@@ -100,5 +113,5 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 ## 🌟 Support & Issues
 Have any issues or suggestions? **Open an issue** on GitHub!
 
-🔗 **GitHub Repo:** [https://github.com/heshamm1/fetcher](https://github.com/heshamm1/fetcher.git)
+🔗 **GitHub Repo:** [https://github.com/heshamm1/fetcher](https://github.com/heshamm1/fetcher)
 
